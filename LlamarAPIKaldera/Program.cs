@@ -20,7 +20,7 @@ class LlamarAPIKaldera
         timer.Dispose();
     }
 
-    private static string GetApiUrlFromConfiguration()//método para obtener URL de la API, el cual esta en el archivo App.config
+    private static string GetApiUrlFromConfiguration()
     {
         return System.Configuration.ConfigurationManager.AppSettings["ApiUrl"];
     }
