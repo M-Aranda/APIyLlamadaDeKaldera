@@ -5,3 +5,11 @@ C:\Users\Chelo\Desktop\LlamarAPIKaldera\obj\Debug\LlamarAPIKaldera.csproj.Sugges
 C:\Users\Chelo\Desktop\LlamarAPIKaldera\obj\Debug\LlamarAPIKaldera.csproj.CoreCompileInputs.cache
 C:\Users\Chelo\Desktop\LlamarAPIKaldera\obj\Debug\LlamarAPIKaldera.exe
 C:\Users\Chelo\Desktop\LlamarAPIKaldera\obj\Debug\LlamarAPIKaldera.pdb
+C:\Users\Chelo\Desktop\APIyLlamadaDeKaldera\LlamarAPIKaldera\bin\Debug\LlamarAPIKaldera.exe.config
+C:\Users\Chelo\Desktop\APIyLlamadaDeKaldera\LlamarAPIKaldera\bin\Debug\LlamarAPIKaldera.exe
+C:\Users\Chelo\Desktop\APIyLlamadaDeKaldera\LlamarAPIKaldera\bin\Debug\LlamarAPIKaldera.pdb
+C:\Users\Chelo\Desktop\APIyLlamadaDeKaldera\LlamarAPIKaldera\obj\Debug\LlamarAPIKaldera.csproj.AssemblyReference.cache
+C:\Users\Chelo\Desktop\APIyLlamadaDeKaldera\LlamarAPIKaldera\obj\Debug\LlamarAPIKaldera.csproj.SuggestedBindingRedirects.cache
+C:\Users\Chelo\Desktop\APIyLlamadaDeKaldera\LlamarAPIKaldera\obj\Debug\LlamarAPIKaldera.csproj.CoreCompileInputs.cache
+C:\Users\Chelo\Desktop\APIyLlamadaDeKaldera\LlamarAPIKaldera\obj\Debug\LlamarAPIKaldera.exe
+C:\Users\Chelo\Desktop\APIyLlamadaDeKaldera\LlamarAPIKaldera\obj\Debug\LlamarAPIKaldera.pdb
